@@ -1,2 +1,2 @@
-# shoppig-cart
+# shopping-cart
 TOP Assignment
