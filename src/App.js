@@ -4,6 +4,7 @@ import RouteSwitch from './RouteSwitch';
 import Nav from './components/Nav'
 import Footer from './components/Footer';
 import { BrowserRouter } from 'react-router-dom';
+import { hashHistory } from 'react-router'
 
 
 function App() {
@@ -33,7 +34,7 @@ function App() {
 
 
   return (
-    <BrowserRouter basename='/tennisStore'>
+    <BrowserRouter basename='/tennisStore' history={hashHistory}>
       <div>
         <Nav shoppingCart={shoppingCart}/>
         <RouteSwitch 
