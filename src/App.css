@@ -1,0 +1,67 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#root>div {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  width: 100%;
+  background-color: aqua;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  width: 35%;
+}
+#cart, #card {
+  height: 100%;
+  width: 100%;
+}
+#card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#card img {
+  height: 100%;
+}
+
+#item img {
+  width: 8vw;
+}
+
+
+
+#footer {
+  background-color: aqua;
+  width: 100%;
+  text-align: center;
+  padding: 1em;
+}
+
+#items {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 3.5vw;
+}
+#item{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+}
