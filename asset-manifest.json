@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.9f3c76ed.css",
+    "main.js": "/shopping-cart/static/js/main.d06cd0c1.js",
+    "static/media/Prince.webp": "/shopping-cart/static/media/Prince.f36f1b8da5d249f0a6a3.webp",
+    "static/media/Volk.webp": "/shopping-cart/static/media/Volk.9440b73026856e39d780.webp",
+    "static/media/Wilson.webp": "/shopping-cart/static/media/Wilson.91a1cd8a1a79c1fc12ce.webp",
+    "static/media/Dun.webp": "/shopping-cart/static/media/Dun.64faf94702fa58ff2bf6.webp",
+    "static/media/Tech.webp": "/shopping-cart/static/media/Tech.90e2eccf39f51ba6595b.webp",
+    "static/media/Yonex.webp": "/shopping-cart/static/media/Yonex.26e2bf8564be5a7856bc.webp",
+    "static/media/Babo.webp": "/shopping-cart/static/media/Babo.4bbdc0cb222d6bdbed9c.webp",
+    "static/media/Head.webp": "/shopping-cart/static/media/Head.bf8b055f35d51890f2d5.webp",
+    "static/media/Solinco.webp": "/shopping-cart/static/media/Solinco.1bbe5822ba1f72baae1e.webp",
+    "index.html": "/shopping-cart/index.html",
+    "main.9f3c76ed.css.map": "/shopping-cart/static/css/main.9f3c76ed.css.map",
+    "main.d06cd0c1.js.map": "/shopping-cart/static/js/main.d06cd0c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f3c76ed.css",
+    "static/js/main.d06cd0c1.js"
+  ]
+}
